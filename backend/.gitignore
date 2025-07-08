@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+*.mp3
+*.jpg
+*.mp4
+avid-phoenix-353111-b97e4c402031.json

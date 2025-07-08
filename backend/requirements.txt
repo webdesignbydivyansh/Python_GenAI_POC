@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+gtts
+moviepy
+google-cloud-storage
+requests
