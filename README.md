@@ -3,7 +3,7 @@
 This is a full-stack AI-powered application that generates personalized sports highlight videos using LLM-generated summaries, player images, and text-to-speech audio — all combined into a video and uploaded to Google Cloud Storage (GCS).
 
 🚀 Built with:
-- **Frontend**: Next.js 14 + Tailwind CSS
+- **Frontend**: Next.js 15 + Tailwind CSS
 - **Backend**: FastAPI + MoviePy + gTTS + GCS
 - **LLM Model**: Ollama (LLaMA3 running locally)
 - **Video Hosting**: Google Cloud Storage
